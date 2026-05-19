@@ -33,7 +33,7 @@ const blogPosts = [
     desc: "Tips on setting up a serene, distraction-free corner in your home dedicated entirely to your daily practice.",
     date: "April 15, 2026",
     category: "Lifestyle",
-    image: "https://images.unsplash.com/photo-1552196563-5527ebc2d61c?q=80&w=800&auto=format&fit=crop"
+    image: "https://images.squarespace-cdn.com/content/v1/5737f1bab654f9749a55a048/a42eb9bb-ac1d-49b3-b29a-c050ecc88e6f/IMG_1585.jpg"
   },
   {
     id: 5,

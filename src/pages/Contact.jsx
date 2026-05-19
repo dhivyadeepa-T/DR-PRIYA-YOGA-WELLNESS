@@ -25,7 +25,7 @@ const Contact = () => {
                   <div className="info-icon"><MapPin size={24} /></div>
                   <div>
                     <h3>Our Location</h3>
-                    <p>123 Peace Avenue, Wellness City, 10001</p>
+                    <p>SALEM</p>
                   </div>
                 </div>
 

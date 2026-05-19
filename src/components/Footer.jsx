@@ -45,8 +45,8 @@ const Footer = () => {
         <div className="footer-col">
           <h3 className="footer-heading">Contact Us</h3>
           <ul className="footer-contact">
-            <li><MapPin size={18} /> 123 Peace Avenue, Wellness City, 10001</li>
-            <li><Phone size={18} /> +1 (555) 123-4567</li>
+            <li><MapPin size={18} /> SALEM</li>
+            <li><Phone size={18} /> 99949 81659</li>
             <li><Mail size={18} /> info@drmonuyoga.com</li>
           </ul>
         </div>
